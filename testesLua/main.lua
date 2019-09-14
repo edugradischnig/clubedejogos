@@ -1,6 +1,3 @@
---[[
-DEVELOPED BY EDUARDO GRADISCHNIG
---]]
 function love.load()
     bastao1 = {}
     bastao1.x = 20
